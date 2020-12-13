@@ -1,0 +1,6 @@
+priest,
+judge,
+sportsman,
+programmer,
+businessman,
+teacher,
