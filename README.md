@@ -7,11 +7,11 @@ You need to have wiki-news-300d-1M.vec from https://fasttext.cc/. Put the file i
 
 Put some words from your sought category into a file, one word per line (see attached example*.txt files). Run the program with the first parameter being the path to the file with words, like this:
 
-```FastText.exe exampleJobs.txt```
+```FastTextCategory.exe exampleJobs.txt```
 
 You can optionally specify, as a second parameter, the number of words from FastText to be searched (the given number of most frequent words is searched):
 
-```FastText.exe exampleJobs.txt 100000```
+```FastTextCategory.exe exampleJobs.txt 100000```
 
 This option defaults to 50000.
 
